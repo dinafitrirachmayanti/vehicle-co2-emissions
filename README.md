@@ -140,7 +140,7 @@ Linear Regression and Ridge Regression produced very similar results on the test
 - Seaborn
 - Scikit-learn
 
-** Machine Learning Techniques**
+**Machine Learning Techniques**
 - KNN Imputation
 - Label Encoding
 - Min-Max Scaling
@@ -150,15 +150,17 @@ Linear Regression and Ridge Regression produced very similar results on the test
 
 ---
 
-** Learning Context
+## Learning Outcomes
+
+Through this guided project, I practiced implementing a basic machine learning workflow from data preprocessing and exploratory analysis to regression modeling and evaluation.
+
+This project helped me become more familiar with the Scikit-learn workflow and the overall process of preparing data for machine learning.
+
+## Learning Context
 
 This project was completed as part of the UKM Circle AI learning activities during my university studies.
 
 The implementation followed the mentor's step-by-step guidance. The purpose of this project was to practice the concepts and workflow introduced during the study session.
 
 This repository is maintained as part of my learning documentation and does not represent an independently designed machine learning project.
-## Learning Outcomes
 
-Through this guided project, I practiced implementing a basic machine learning workflow from data preprocessing and exploratory analysis to regression modeling and evaluation.
-
-This project helped me become more familiar with the Scikit-learn workflow and the overall process of preparing data for machine learning.
